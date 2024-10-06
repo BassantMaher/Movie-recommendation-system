@@ -1,0 +1,3 @@
+models
+models\cosine_similarity_matrix.joblib
+models\knn_model.joblib
